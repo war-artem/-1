@@ -1,36 +1,50 @@
 body {
-    font-family: sans-serif;
+  background: url(https://i.postimg.cc/W4Xjstb2/literary-fantasy-character.jpg)no-repeat center center / cover;
+  padding: 100px 50px;
+}
+
+header p {
+  color: #ff0000;
+}
+
+main p {
+  color: #b00000;
+} 
+
+footer {
+  color: red ;
+  background-color: rgba(0, 0, 0, 0.69);
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid blue;
+}
+
+p {
+  font-family: ;
+  padding: 5px;
+  max-width: 700px;
 }
 
 h1 {
-    text-align: center;
-    font-size: 60px;
+  font-family: 'Brush Script MT', cursive;
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+  background-color: rgba(0, 0, 0, 0.69);
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid blue;
 }
 
 h2{
-    font-size: 40px;
-    background-color: peru;
+  font-family: 'Times New Roman', serif;
+  color: blue;
+  background-color: rgba(0, 0, 0, 0.69);
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid blue;
 }
 
-a {
-    color: black;
-    font-size: 20px;
-}
-
-p, img {
-    border: 3px solid peru;
-}
-
-p, table {    
-    font-size: 20px;
-}
-
-table {
-    background-color: lightyellow;
-    text-align: center;
-    border-collapse: collapse;
-}
-
-td {
-    border: 1px solid brown;
+img {
+  
 }
